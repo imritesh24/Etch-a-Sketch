@@ -28,8 +28,7 @@ This is a project from **The Odin Project – Foundations** module.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
 ## 🎮 Live Demo
-[Click here to try it!](## 🎮 Live Demo
-[Click here to try it!](https://imritesh24.github.io/Etch-a-Sketch/))
+[Click here to try it!](https://imritesh24.github.io/Etch-a-Sketch/)
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
